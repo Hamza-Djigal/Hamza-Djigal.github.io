@@ -1,11 +1,3 @@
----
-title: "About Me"
-permalink: /about/
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 ## 👋 About Me
 I am [Your Name], currently an **Assistant Professor** in the Department of Computer Science at **Wenzhou-Kean University, China**.  
